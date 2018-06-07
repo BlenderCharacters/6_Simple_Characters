@@ -13,3 +13,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Know when you have accomplished your goal
 + Simple projects allow you to iterate faster meaning you can try more things.
 + Stave off boredom
+
+### 3 Gathering Your Reference Material
++ Reminder about reference material
++ My chosen character: "The Last Hero"
++ A look at my characters features and equipment
