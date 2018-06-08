@@ -18,3 +18,13 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Reminder about reference material
 + My chosen character: "The Last Hero"
 + A look at my characters features and equipment
+
+### 4 A 3D Viewport Refresher
++ Changing your view in the 3D viewport.
++ Transforming objects and applying transforms.
++ Adding objects and the operator Panel.
++ The outliner and naming and empties for organising.
++ Pivot points.
++ Parenting and grouping.
++ Selecting.
++ The tool shelf and properties panel.
