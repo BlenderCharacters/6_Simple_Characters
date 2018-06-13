@@ -34,3 +34,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Explore in detail the differences between Object Mode and Edit Mode
 + Show how to select Linked mesh data
 + Join mesh objects together
+
+### 6 Verts Edges and Faces
++ Explore Operating on Vertice, Edges and Faces
++ See how they're connected
++ Make models with more details than before.
