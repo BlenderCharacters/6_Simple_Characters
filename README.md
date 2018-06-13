@@ -28,3 +28,9 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Parenting and grouping.
 + Selecting.
 + The tool shelf and properties panel.
+
+
+### 5 Edit Mode and Object Mode
++ Explore in detail the differences between Object Mode and Edit Mode
++ Show how to select Linked mesh data
++ Join mesh objects together
