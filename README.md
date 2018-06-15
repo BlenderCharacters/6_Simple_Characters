@@ -39,6 +39,11 @@ Learn to make simple characters which a modular design and interchangeable textu
 + See how they're connected
 + Make models with more details than before.
 
+### 6.5 Deleting And Filling
++ Take a closer look at how to delete mesh data
++ Show what dissolve does
++ Show how to remove faces where they are not needed
+
 ### 7 Duplicating
 + Rapidly build models by reusing parts
 + Linked Duplication
