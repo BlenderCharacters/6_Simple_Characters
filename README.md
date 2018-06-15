@@ -29,13 +29,17 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Selecting.
 + The tool shelf and properties panel.
 
-
 ### 5 Edit Mode and Object Mode
 + Explore in detail the differences between Object Mode and Edit Mode
 + Show how to select Linked mesh data
 + Join mesh objects together
 
 ### 6 Verts Edges and Faces
-+ Explore Operating on Vertice, Edges and Faces
++ Explore Operating on Vertices, Edges and Faces
 + See how they're connected
 + Make models with more details than before.
+
+### 7 Duplicating
++ Rapidly build models by reusing parts
++ Linked Duplication
++ Un-linked Duplication
