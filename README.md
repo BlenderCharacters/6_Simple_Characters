@@ -48,3 +48,9 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Rapidly build models by reusing parts
 + Linked Duplication
 + Un-linked Duplication
+
+## 8 Workflow- Box Modelling & Poly To Poly
++ 2 Methods of Modelling
++ Very Similar and great for Low Poly Modelling
++ Not the only way!
++ Sculpting first is an option, but not something we will cover in this section
