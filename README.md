@@ -1,4 +1,4 @@
-# Simple_Characters
+0# Simple_Characters
 Learn to make simple characters which a modular design and interchangeable texture sheet (Reference: SC_BCC)
 
 ### 1 Introduction To Section 6
@@ -54,3 +54,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Very Similar and great for Low Poly Modelling
 + Not the only way!
 + Sculpting first is an option, but not something we will cover in this section
+
+### 9 The Mirror Modifier
++ Purpose of most modifiers
++ The modifier stack
++ Great workflow tip even if it isn't needed all the time
