@@ -64,3 +64,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Loops are critical to speedy workflow
 + Exploration of where and when you can loop cut
 + Selecting Edge and Face loops
+
+### 11 Duplicate and Separate
++ Great for template based production
++ Very useful for getting parts of your model to fit together.
++ Separate is the opposite to join- will create a new mesh object from your mesh data selection
