@@ -49,7 +49,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Linked Duplication
 + Un-linked Duplication
 
-## 8 Workflow- Box Modelling & Poly To Poly
+### 8 Workflow- Box Modelling & Poly To Poly
 + 2 Methods of Modelling
 + Very Similar and great for Low Poly Modelling
 + Not the only way!
@@ -59,3 +59,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Purpose of most modifiers
 + The modifier stack
 + Great workflow tip even if it isn't needed all the time
+
+### 10 Loop Cut and Slide
++ Loops are critical to speedy workflow
++ Exploration of where and when you can loop cut
++ Selecting Edge and Face loops

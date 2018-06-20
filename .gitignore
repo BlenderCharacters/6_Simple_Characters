@@ -1,3 +1,6 @@
+# Blender "backups"
+*.blend[123456789]
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
