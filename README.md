@@ -74,3 +74,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Creating additional geometry quickly
 + Using Vertex Groups as a control for modifiers
 + Demonstration of modifier speeding up Workflow
+
+### 13 Intersecting Geometry
++ Discuss when it is OK
++ Discuss when it will ruin a model
++ Pros and Cons
