@@ -69,3 +69,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Great for template based production
 + Very useful for getting parts of your model to fit together.
 + Separate is the opposite to join- will create a new mesh object from your mesh data selection
+
+### 12 The Solidify Modifier
++ Creating additional geometry quickly
++ Using Vertex Groups as a control for modifiers
++ Demonstration of modifier speeding up Workflow
