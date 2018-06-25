@@ -1,4 +1,4 @@
-0# Simple_Characters
+# Simple_Characters
 Learn to make simple characters which a modular design and interchangeable texture sheet (Reference: SC_BCC)
 
 ### 1 Introduction To Section 6
@@ -84,3 +84,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Troubleshooting a model
 + When and where to remove doubles
 + Be cautious and conscious when doing so
+
+### 15 Vertex and Edge Slide
++ Easy way to edit geometry without destroying surrounding geometry
++ Gives you better control of where vertices and edges are in a model
