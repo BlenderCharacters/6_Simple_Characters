@@ -79,3 +79,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Discuss when it is OK
 + Discuss when it will ruin a model
 + Pros and Cons
+
+### 14 Removing Doubles
++ Troubleshooting a model
++ When and where to remove doubles
++ Be cautious and conscious when doing so
