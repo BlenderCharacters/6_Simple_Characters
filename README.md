@@ -92,3 +92,11 @@ Learn to make simple characters which a modular design and interchangeable textu
 ### 16 The Snapping Tool
 + Become an alignment ninja
 + Use the snapping tool to precisely place objects and geometry
+***
+### 17 The Inset Tool
++ Use the Inset Tool to create more geometry
++ Very Useful for detailing
++ Useful for adding geometry without excess geometry.
+
+### 18 Visible Layers
++ Reminded on using Layers to organise meshes
