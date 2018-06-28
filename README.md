@@ -100,3 +100,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 
 ### 18 Visible Layers
 + Reminded on using Layers to organise meshes
+
+### 19 Non-Planar Geometry
++ Solve non-planar rendering artifacts
++ Simple to achieve
