@@ -114,3 +114,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Splitting a single vertex into 2
 + Great way of create additional geometry
 + Rip-Fill is another option
+
+### 22 Select Linked and Make Links
++ Another great way of selecting similar objects/ pieces of mesh data
++ One way of controlling the amount of mesh data in any scene in Blender
++ Workflow improvement
