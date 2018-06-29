@@ -109,3 +109,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Easy to accidently turn on!
 + Great control over more that one Vertex
 + Enables more organic modelling
+
+### 21 Ripping
++ Splitting a single vertex into 2
++ Great way of create additional geometry
++ Rip-Fill is another option
