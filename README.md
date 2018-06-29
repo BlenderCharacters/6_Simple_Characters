@@ -55,7 +55,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Not the only way!
 + Sculpting first is an option, but not something we will cover in this section
 
-### 9 The Mirror Modifier
+### 9 The Mirror Modifier Revisited
 + Purpose of most modifiers
 + The modifier stack
 + Great workflow tip even if it isn't needed all the time
@@ -92,7 +92,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 ### 16 The Snapping Tool
 + Become an alignment ninja
 + Use the snapping tool to precisely place objects and geometry
-***
+
 ### 17 The Inset Tool
 + Use the Inset Tool to create more geometry
 + Very Useful for detailing
@@ -104,3 +104,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 ### 19 Non-Planar Geometry
 + Solve non-planar rendering artifacts
 + Simple to achieve
+
+### 20 Proportional Editing
++ Easy to accidently turn on!
++ Great control over more that one Vertex
++ Enables more organic modelling
