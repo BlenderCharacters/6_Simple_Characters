@@ -110,6 +110,8 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Easy to forget it is turned on
 + Works great with the snapping tool
 
+### 19.2 The Specials Menu
+
 ### 20 Proportional Editing
 + Easy to accidently turn on!
 + Great control over more that one Vertex
@@ -124,3 +126,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Another great way of selecting similar objects/ pieces of mesh data
 + One way of controlling the amount of mesh data in any scene in Blender
 + Workflow improvement
+
+### 99 End Of The Simple Character Section
++ Michael wraps up this section.
++ What would you like to see next?
