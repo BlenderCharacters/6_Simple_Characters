@@ -88,6 +88,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 ### 15 Vertex and Edge Slide
 + Easy way to edit geometry without destroying surrounding geometry
 + Gives you better control of where vertices and edges are in a model
++ Updated for more consistency (19/07/2018)
 
 ### 16 The Snapping Tool
 + Become an alignment ninja
