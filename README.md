@@ -112,7 +112,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 
 ### 19.2 The Specials Menu
 
-### 20 Proportional Editing
+### 20 Proportional Editing Revisited
 + Easy to accidently turn on!
 + Great control over more that one Vertex
 + Enables more organic modelling
