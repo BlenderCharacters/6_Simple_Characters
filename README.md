@@ -106,7 +106,7 @@ Learn to make simple characters which a modular design and interchangeable textu
 + Solve non-planar rendering artifacts
 + Simple to achieve
 
-### 19.1 Auto Merging Vertices
+### 19a Auto Merging Vertices
 + Like Removing Doubles only at the time
 + Easy to forget it is turned on
 + Works great with the snapping tool
